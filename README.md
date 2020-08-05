@@ -51,7 +51,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente)](https://github.com/rexardiente/github-readme-stats)
 
-<img align="left" alt="rexardiente's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rexardiente&show_icons=true&hide_border=true&theme=vue" />
+<img align="right" alt="rexardiente's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rexardiente&show_icons=true&hide_border=true&theme=vue" />
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr

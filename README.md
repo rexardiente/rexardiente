@@ -1,6 +1,6 @@
-### Hi there, I'm Jesse - aka [rexardiente][https://github.com/rexardiente] 👋
+### Hi there, I'm Rex - aka [rexardiente](https://github.com/rexardiente) 👋
 
-## I'm a Developer, Teacher, and Leader!
+## I'm a Developer!
 
 - 🔭 I’m currently working on a [EOS Decentralized Application](https://github.com/donutfactory)!
 - 🌱 I’m currently learning everything 🤣

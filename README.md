@@ -48,9 +48,7 @@
 <br />
 
 ---
-{:refdef: style="width: 100%; padding:0px;"}
-[![rex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-{: refdef}
+[![rex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats?p=0)
 <a href="#" alt="Top Languages">
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&hide_border=true&theme=vue-dark" style="padding:0;" />
 </a>

@@ -63,6 +63,7 @@
 
 <br />
 <br />
+
 ###### My Coding Activity for last 7 days
 
 <img src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>

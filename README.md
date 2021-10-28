@@ -61,6 +61,8 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" />
 </a>
 
+<br />
+<br />
 ###### My Coding Activity for last 7 days
 
 <img src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>

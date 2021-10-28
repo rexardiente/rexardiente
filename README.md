@@ -48,5 +48,12 @@
 <br />
 
 ---
-[![rex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark&card_width=100%&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&hide_border=true&theme=vue-dark)](https://github.com/rexardiente/github-readme-stats)<img align="right" alt="rexardiente's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" style="padding-left: 0;" />
+<a href="#" alt="WakaTime Status">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark&layout=compact" />
+</a>
+<a href="#" alt="Top Languages">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&hide_border=true&theme=vue-dark" />
+</a>
+<a href="#" alt="Github Status">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" />
+</a>

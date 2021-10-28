@@ -49,10 +49,10 @@
 
 <p>
 <a href="#" alt="Top Languages">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&layout=compact&hide_border=true&theme=vue-dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&layout=compact&hide_border=true&theme=vue-dark" />
 </a>
 <a href="#" alt="Github Status">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&show_icons=true&theme=tokyonight" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue-dark" />
 </a>
 <p/>
 

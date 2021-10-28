@@ -44,17 +44,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](#)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" css-padding-left="0"/>](#)
 
-<br />
-<br />
-<br />
-<br />
 
 
-
-
-<a href="#" alt="Rex languages">
-<img align="center" width="100%" src="https://ionicabizau.github.io/github-profile-languages/api.html?rexardiente" />
-</a>
 
 
 
@@ -62,8 +53,7 @@
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&hide_border=true&theme=vue-dark" />
 </a>
 
-<br />
-<br />
+
 
 <a href="#" alt="Top Languages">
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&hide_border=true&theme=vue-dark" />
@@ -71,7 +61,6 @@
 <a href="#" alt="Github Status">
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" />
 </a>
-
 <a href="#" alt="My Coding Activity for last 7 days">
   <img align="center" width="100%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
 </a>

@@ -46,13 +46,12 @@
 
 <br />
 <br />
-
----
-[![rex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark&layout=compact&p=0)](#)
+<a href="#" alt="WakaTime Status">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark&layout=compact" />
+</a>
 <a href="#" alt="Top Languages">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&hide_border=true&theme=vue-dark" style="padding:0;" />
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&hide_border=true&theme=vue-dark" />
 </a>
 <a href="#" alt="Github Status">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" style="padding:0;" />
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" />
 </a>
-

@@ -49,9 +49,6 @@
 <br />
 <br />
 
-<a href="#" alt="Coding Activity">
-  <img src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
-</a>
 <a href="#" alt="WakaTime Status">
   <mg align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&range=all_time&v=2&hide_border=true&theme=vue-dark" />
 </a>
@@ -61,4 +58,8 @@
 </a>
 <a href="#" alt="Github Status">
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" />
+</a>
+
+<a href="#" alt="Coding Activity">
+  <img src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
 </a>

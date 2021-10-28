@@ -64,5 +64,6 @@
 <img align="center" width="100%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
 </a>
   
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rexardiente" frameborder="0"></iframe>
+<img align="center" width="100%" src="https://ionicabizau.github.io/github-profile-languages/api.html?rexardiente" alt="My Coding Activity"/>
+
 <p/>

@@ -53,7 +53,10 @@
 <a href="#" alt="WakaTime Status">
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&range=all_time&v=2&hide_border=true&theme=vue-dark" />
 </a>
+
 <br />
+<br />
+
 <a href="#" alt="Top Languages">
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&hide_border=true&theme=vue-dark" />
 </a>
@@ -61,9 +64,6 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" />
 </a>
 
-<br />
-<br />
-
-###### My Coding Activity for last 7 days
-
-<img src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
+<a href="#" alt="My Coding Activity for last 7 days">
+  <img align="center" width="100%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
+</a>

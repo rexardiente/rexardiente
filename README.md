@@ -47,7 +47,7 @@
 <br />
 <br />
 
+---
 [![rex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&hide_border=true&theme=vue-dark)](https://github.com/rexardiente/github-readme-stats)<img align="right" alt="rexardiente's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" style="padding-left: 0;" />
-[![Anurag's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente)](https://github.com/anuraghazra/github-readme-stats)

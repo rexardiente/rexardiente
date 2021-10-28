@@ -52,7 +52,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&layout=compact&hide_border=true&theme=vue-dark" />
 </a>
 <a href="#" alt="Github Status">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&show_icons=true&theme=tokyonight" />
 </a>
 <p/>
 
@@ -63,7 +63,4 @@
 <a href="#" alt="Coding Status">
 <img align="center" width="100%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
 </a>
-  
-<img align="center" width="100%" src="https://ionicabizau.github.io/github-profile-languages/api.html?rexardiente" alt="My Coding Activity"/>
-
 <p/>

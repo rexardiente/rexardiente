@@ -50,7 +50,10 @@
 <br />
 
 <a href="#" alt="WakaTime Status">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&range=all_time&v=2&hide_border=true&theme=vue-dark" />
+  <img align="center" width="100%" src="https://wakatime.com/api/v1/users/rexardiente" />
+</a>
+<a href="#" alt="WakaTime Status">
+  <mg align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&range=all_time&v=2&hide_border=true&theme=vue-dark" />
 </a>
 <br />
 <a href="#" alt="Top Languages">

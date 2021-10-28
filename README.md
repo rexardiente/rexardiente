@@ -43,14 +43,16 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](#)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](#)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" css-padding-left="0"/>](#)
-<kbd />
 ---
+<br />
+<br />
+
 <p>
 <a href="#" alt="Top Languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&layout=compact&hide_border=true&theme=vue-dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&layout=compact&hide_border=true&theme=vue-dark" />
 </a>
 <a href="#" alt="Github Status">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" />
 </a>
 <p/>
 <kbd />

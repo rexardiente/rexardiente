@@ -1,12 +1,12 @@
-### Hi there, I'm Rex - aka [rexardiente](https://github.com/rexardiente) 👋
+### Hi there, I'm Rex Ardiente - aka [Rex](https://github.com/rexardiente) 👋
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on a [EOS Decentralized Application](https://github.com/donutfactory)!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on a [Decentralized Applications](https://github.com/donutfactory)!
+- 🌱 I’m currently working as Technical Lead Engineer @ [Super Dooper limited](https://github.com/donutfactory) 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Looking forward to share my knowledge and skills
-- ⚡ Fun fact: I love to play online games and reading
+- ⚡ Fun fact: I love to play online games, watching anime and coding 
 
 ### Connect with me:
 
@@ -50,7 +50,8 @@
 <br />
 
 <a href="#" alt="WakaTime Status">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark" />
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/v1/users/rexardiente/all_time_since_today&v=2&hide_border=true&theme=vue-dark" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark" />
 </a>
 <br />
 <a href="#" alt="Top Languages">
@@ -59,3 +60,4 @@
 <a href="#" alt="Github Status">
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&show_icons=true&hide_border=true&hide=contribs&theme=vue-dark" />
 </a>
+

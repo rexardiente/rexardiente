@@ -15,6 +15,6 @@ jobs:
       - uses: tariksahni/coding-stats-wakatime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_MONTHLY: true
+          SHOW_MONTHLY: false
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_ACTION: ${{ github.action }}

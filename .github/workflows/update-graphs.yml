@@ -1,6 +1,8 @@
 name: Update README with my latest coding stats
 
 on:
+  push:
+    branches: [ master ]
   schedule:
     - cron: '30 5 * * *'
 
@@ -13,6 +15,6 @@ jobs:
       - uses: tariksahni/coding-stats-wakatime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_MONTHLY: false
+          SHOW_MONTHLY: true
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_ACTION: ${{ github.action }}

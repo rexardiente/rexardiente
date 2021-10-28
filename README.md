@@ -50,6 +50,13 @@
 <br />
 
 
+
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rexardiente" frameborder="0"></iframe>
+
+
+
+
 <a href="#" alt="WakaTime Status">
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&hide_border=true&theme=vue-dark" />
 </a>

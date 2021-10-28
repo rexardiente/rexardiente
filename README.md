@@ -44,7 +44,17 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](#)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" css-padding-left="0"/>](#)
 
+<br />
+<br />
+
+
+
+
 ---
+
+
+
+
 
 <a href="#" alt="Top Languages">
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&layout=compact&hide_border=true&theme=vue-dark" />

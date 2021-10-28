@@ -58,10 +58,11 @@
 
 <br />
 <br />
+<br />
 
 <a href="#" alt="WakaTime Status">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark" />
 </a>
 <a href="#" alt="My Coding Activity for last 7 days">
-  <img align="center" width="100%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
+  <img width="50%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
 </a>

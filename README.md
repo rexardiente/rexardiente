@@ -49,7 +49,7 @@
 <br />
 <br />
 
-<a href="#" alt="WakaTime Status">
+<a href="#" alt="Coding Activity">
   <img src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity/>
 </a>
 <a href="#" alt="WakaTime Status">

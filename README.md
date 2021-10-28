@@ -58,7 +58,7 @@
 <kbd />
 <p>
 <a href="#" alt="Wakatime Status">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark" />
 </a>
 <a href="#" alt="Coding Status">
 <img width="50%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>

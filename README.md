@@ -57,9 +57,6 @@
 <p/>
 
 <p>
-<a href="#" alt="Wakatime Status">
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexardiente&v=2&hide_border=true&theme=vue-dark" />
-</a>
 <a href="#" alt="Coding Status">
 <img align="center" width="100%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
 </a>

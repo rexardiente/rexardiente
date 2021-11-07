@@ -55,7 +55,9 @@
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue-dark&text_color=fff" />
 </a>
 <p/>
-
+<p>
+[![History](https://codestats-readme.vercel.app/api/history/?username=rexardiente)](https://github.com/aviortheking/codestats-readme)
+<p/>
 <p>
 <a href="#" alt="Coding Status">
 <img align="center" width="100%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>

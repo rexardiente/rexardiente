@@ -56,7 +56,7 @@
 </a>
 <p/>
 <p>
-[![History](https://codestats-readme.vercel.app/api/history/?username=rexardiente&layout=horizontal&width=100%)](https://github.com/aviortheking/codestats-readme)
+[![History](https://codestats-readme.vercel.app/api/history/?username=rexardiente&layout=horizontal&width=100%)
 <p/>
 <p>
 <a href="#" alt="Coding Status">

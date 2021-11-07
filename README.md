@@ -52,7 +52,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&layout=compact&hide_border=true&theme=vue-dark" />
 </a>
 <a href="#" alt="Github Status">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&text_color=#FFFFFF&show_icons=true&hide_border=true&theme=vue-dark" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue-dark&text_color=fff" />
 </a>
 <p/>
 

@@ -56,9 +56,6 @@
 </a>
 <p/>
 <p>
-[![History](https://codestats-readme.vercel.app/api/history/?username=rexardiente&layout=horizontal&width=100%)
-<p/>
-<p>
 <a href="#" alt="Coding Status">
 <img align="center" width="100%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
 </a>

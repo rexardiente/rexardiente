@@ -47,7 +47,7 @@
 <br />
 <br />
 
-### Top Languages:
+### Coding Activity:
 <p>
 <a href="#" alt="Coding Status">
 <img align="center" width="100%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>

@@ -47,16 +47,18 @@
 <br />
 <br />
 
+### Top Languages:
+<p>
+<a href="#" alt="Coding Status">
+<img align="center" width="100%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
+</a>
+<p/>
+
 <p>
 <a href="#" alt="Top Languages">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&layout=compact&hide_border=true&theme=vue-dark" />
 </a>
 <a href="#" alt="Github Status">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue-dark&text_color=fff" />
-</a>
-<p/>
-<p>
-<a href="#" alt="Coding Status">
-<img align="center" width="100%" src="https://github.com/rexardiente/rexardiente/blob/master/codeStats.svg" alt="My Coding Activity"/>
 </a>
 <p/>

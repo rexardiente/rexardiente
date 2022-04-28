@@ -2,11 +2,11 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on a [Decentralized Applications](https://github.com/donutfactory)!
-- 🌱 I’m currently working as Technical Lead Engineer @ [Super Dooper limited](https://github.com/donutfactory) 
+- 🔭 I’m currently working on a [Decentralized Applications](https://github.com/donutfactory) and [ASIC miner Firmware](https://github.com/eli-global-ph)!
+- 🌱 I’m currently working as Firmware Engineer @ Renew Global
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Looking forward to share my knowledge and skills
-- ⚡ Fun fact: I love to play online games, watching anime and coding 
+- ⚡ Fun fact: I love to watch anime and programming
 
 ### Connect with me:
 

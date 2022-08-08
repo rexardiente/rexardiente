@@ -48,10 +48,8 @@
 <br />
 
 ### Coding Activity:
-<p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<p/>
 
 <p>
 <a href="#" alt="Top Languages">

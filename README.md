@@ -47,7 +47,15 @@
 <br />
 <br />
 
-### Coding Activity:
+<p>
+<a href="#" alt="Top Languages">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&custom_title=Top%20Repo%20Languages&layout=compact&hide_border=true&theme=vue" />
+</a>
+<a href="#" alt="Github Status">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue&custom_title=Github%20Status" />
+</a>
+<p/>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2053%20mins-blue)
 
@@ -134,12 +142,3 @@ C++                      2 repos             █░░░░░░░░░░�
 
  Last Updated on 08/08/2022 09:21:05 UTC
 <!--END_SECTION:waka-->
-
-<p>
-<a href="#" alt="Top Languages">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&custom_title=Top%20Repo%20Languages&layout=compact&hide_border=true&theme=vue" />
-</a>
-<a href="#" alt="Github Status">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue&custom_title=Github%20Status" />
-</a>
-<p/>

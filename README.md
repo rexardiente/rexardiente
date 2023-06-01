@@ -17,8 +17,12 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2035%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+<details open> 
+  <summary><h2>👨‍💻 Programming Languages, Frameworks, Libraries and Markup</h2></summary>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](#)
+  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+  <p align="left">
+    [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](#)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)
 [<img align="left" alt="Java" width="26px" src="https://www.pngfind.com/pngs/m/427-4274060_blockchain-com-logo-blockchain-com-logo-png-transparent.png" />](#)
 [<img align="left" alt="Scala" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEcRei_SdOGb68RzNLK8QI0jweSD-KcD5-8jGuJ9inPS4s-Xu8xj2doZH1iJTLEfFTuR06bA9oryPdzvfhE4KIv8Jz0zfA-kQu1iQj&usqp=CAU&ec=45688579" />](#)
@@ -37,6 +41,13 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](#)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](#)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" css-padding-left="0"/>](#)
+  </p>
+
+  <p align="left">
+    <a href="https://github.com/rexardiente"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  </p>
+</details>
+
 ---
 <br />
 <br />

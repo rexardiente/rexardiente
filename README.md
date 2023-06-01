@@ -42,15 +42,13 @@
     <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
     <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
   </p>
-
+  <br/>
   <p align="left">
     <a href="https://github.com/rexardiente"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
   </p>
 </details>
 
 ---
-<br />
-<br />
 
 <a href="#" alt="Top Languages">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&custom_title=Top%20Repo%20Languages&layout=compact&hide_border=true&theme=vue" />

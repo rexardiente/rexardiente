@@ -55,7 +55,7 @@
 </a>
 
 <a href="#" alt="Github Coding Status">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rexardiente" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=@rexardiente&layout=donut" />
 </a>
 
 <br />

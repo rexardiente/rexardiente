@@ -11,6 +11,11 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://rexardiente.github.io/)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rex-ardiente-ba9721b8/)
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2035%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
 <br />
 <br />
 
@@ -50,11 +55,6 @@
 </a>
 <br />
 <br />
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **Timeline**
 

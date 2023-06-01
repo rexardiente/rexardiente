@@ -54,7 +54,7 @@
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue&custom_title=Github%20Status" />
 </a>
 <a href="#" alt="Wakatime Stats">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rexardiente&layout=compact" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rexardiente&layout=compact&show_icons=true&hide_border=true&theme=vue&custom_title=Github%20Status" />
 </a>
 <br />
 <br />

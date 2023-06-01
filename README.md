@@ -61,30 +61,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 203 Contributions in the Year 2022
- > 
-> 📦 68.5 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   37.93% 
-Scala                    9 repos             ███████░░░░░░░░░░░░░░░░░░   31.03% 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
-
-```
-
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/rexardiente/rexardiente/master/charts/bar_graph.png) 

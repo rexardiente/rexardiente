@@ -47,8 +47,6 @@
   </p>
 </details>
 
----
-
 <a href="#" alt="Top Languages">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&custom_title=Top%20Repo%20Languages&layout=compact&hide_border=true&theme=vue" />
 </a>

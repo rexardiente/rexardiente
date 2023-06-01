@@ -2,11 +2,11 @@
 
 ## I'm a Developer!
 
-- 🔭 Recently working on a [Decentralized Applications](https://github.com/donutfactory) and [ASIC miner Firmware](https://github.com/renewglobal-ph)!
-- 🌱 Currently working as Full-stack Engineer @ Renew Global (Eli Global Phil. Resource Operation Center Inc.)
+- 🔭 Recently working on a [Hotel PMS](https://github.com/ardiente/app.onlense.ph)!
+- 🌱 Currently working as Senior Engineer @ EnhancedGEO
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Looking forward to share my knowledge and skills
-- ⚡ Fun fact: I love to watch anime and programming
+- ⚡ Fun fact: I love to watch anime and coding sessions
 
 ### Connect with me:
 

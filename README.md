@@ -60,7 +60,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/rexardiente/rexardiente/master/charts/bar_graph.png) 

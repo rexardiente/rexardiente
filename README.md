@@ -54,12 +54,6 @@
 <a href="#" alt="Wakatime Stats">
 <img align="center"  width="82%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rexardiente&layout=compact&show_icons=true&hide_border=true&theme=vue&custom_title=Overall%20Coding%20Time" />
 </a>
-<br />
-<br />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/rexardiente/rexardiente/master/charts/bar_graph.png) 

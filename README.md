@@ -14,9 +14,6 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://rexardiente.github.io/)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rex-ardiente-ba9721b8/)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <details open> 
   <summary><h2>👨‍💻 Programming Languages, Frameworks, Libraries and Markup</h2></summary>
 
@@ -59,6 +56,10 @@
 </a>
 <br />
 <br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 **Timeline**
 

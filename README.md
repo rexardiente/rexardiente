@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 Recently working on a [Hotel PMS](https://github.com/ardiente/app.onlense.ph)!
-- 🌱 Currently working as Senior Engineer @ EnhancedGEO
+- 🌱 Currently working as Senior Engineer at [EnhancedGEO](https://enhancedgeo.com/)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Looking forward to share my knowledge and skills
 - ⚡ Fun fact: I love to watch anime and coding sessions

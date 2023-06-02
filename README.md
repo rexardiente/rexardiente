@@ -15,7 +15,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rex-ardiente-ba9721b8/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2035%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+<!--END_SECTION:waka-->
+
 <details open> 
   <summary><h2>👨‍💻 Programming Languages, Frameworks, Libraries and Markup</h2></summary>
 
@@ -43,7 +44,7 @@
   </p>
   <br/>
   <p align="left">
-    <a href="https://github.com/rexardiente?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+    <a href="https://github.com/rexardiente?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20All%20My%20Repo-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
   </p>
 </details>
 

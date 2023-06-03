@@ -51,14 +51,9 @@
 <a href="#" alt="Github Status">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&rank_icon=github&theme=vue&custom_title=Github%20Status" />
 </a>
-<a href="#" alt="Wakatime Stats">
-<img align="center"  width="82%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rexardiente&layout=compact&show_icons=true&hide_border=true&theme=vue&custom_title=Overall%20Coding%20Time" />
-</a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-342-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs-blue)![Profile Views](http://img.shields.io/badge/Profile%20Views-342-blue)
 
 **🐱 My GitHub Data** 
 

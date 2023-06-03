@@ -45,89 +45,12 @@
   </p>
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <a href="#" alt="Top Languages">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&custom_title=Top%20Repo%20Languages&layout=compact&hide_border=true&theme=vue" />
 </a>
 <a href="#" alt="Github Status">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&rank_icon=github&theme=vue&custom_title=Github%20Status" />
 </a>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs-blue)![Profile Views](http://img.shields.io/badge/Profile%20Views-342-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 70.7 kB Used in GitHub's Storage 
- > 
-> 🏆 155 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 33 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1349 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-🌆 Daytime                2541 commits        ████████░░░░░░░░░░░░░░░░░   33.50 % 
-🌃 Evening                1588 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-🌙 Night                  2108 commits        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1208 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Tuesday                  1545 commits        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Wednesday                1336 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Thursday                 1446 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Friday                   1486 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Saturday                 254 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Sunday                   311 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-Scala                    15 hrs 2 mins       ████████████░░░░░░░░░░░░░   47.89 % 
-JavaScript               11 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   38.10 % 
-Other                    2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-HTML                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-
-🔥 Editors: 
-VS Code                  30 hrs 54 mins      █████████████████████████   98.39 % 
-Sublime Text             30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-
-🐱‍💻 Projects: 
-api.onlense.ph           18 hrs 34 mins      ███████████████░░░░░░░░░░   59.14 % 
-app.onlense.ph           12 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   39.40 % 
-flutter-template         27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-
-💻 Operating System: 
-Mac                      31 hrs 25 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               17 repos            ██████████░░░░░░░░░░░░░░░   39.53 % 
-Scala                    11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/rexardiente/rexardiente/master/assets/bar_graph.png)
-
-
-<!--END_SECTION:waka-->

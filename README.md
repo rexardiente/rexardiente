@@ -45,12 +45,12 @@
   </p>
 </details>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <a href="#" alt="Top Languages">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexardiente&langs_count=10&custom_title=Top%20Repo%20Languages&layout=compact&hide_border=true&theme=vue" />
 </a>
 <a href="#" alt="Github Status">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rexardiente&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&rank_icon=github&theme=vue&custom_title=Github%20Status" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer+;6%2B+years+of+coding+experience+;I+like+Full-stack+Development;Always+learning+new+things!" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 Recently working on a [Hotel PMS](https://github.com/ardiente/app.onlense.ph)!
+- 🔭 I'm working on a [Hotel PMS](https://github.com/ardiente/app.onlense.ph) on my free time!
 - 🌱 Currently working as Senior Engineer at [EnhancedGEO](https://enhancedgeo.com/)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Looking forward to share my knowledge and skills

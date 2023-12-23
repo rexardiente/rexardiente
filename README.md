@@ -54,7 +54,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C458%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C460%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -97,18 +97,17 @@ Sunday                   189 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-JavaScript               3 hrs 15 mins       ██████████████████░░░░░░░   73.04 % 
-Other                    1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               3 hrs 38 mins       ███████████████████████░░   93.80 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cousin                   4 hrs 27 mins       █████████████████████████   100.00 % 
+cousin                   3 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,5 +127,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rexardiente/rexardiente/master/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2023 18:34:20 UTC
+ Last Updated on 23/12/2023 18:33:54 UTC
 <!--END_SECTION:waka-->

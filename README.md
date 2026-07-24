@@ -54,15 +54,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C119%20hrs%2030%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 254.3 kB Used in GitHub's Storage 
  > 
-> 🏆 4,472 Contributions in the Year 2026
+> 🏆 4,503 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,54 +68,6 @@
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                35006 commits       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-🌆 Daytime                24756 commits       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-🌃 Evening                15672 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-🌙 Night                  56915 commits       ███████████░░░░░░░░░░░░░░   43.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   25694 commits       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Tuesday                  24851 commits       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Wednesday                20768 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Thursday                 11293 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Friday                   12082 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Saturday                 12423 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Sunday                   25238 commits       █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-Markdown                 17 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   37.92 % 
-TypeScript               14 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   30.65 % 
-Other                    5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-JavaScript               2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-HTML                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-
-🔥 Editors: 
-Claude Code              45 hrs 39 mins      ████████████████████████░   97.74 % 
-VS Code                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-
-🐱‍💻 Projects: 
-niksen-workspace         11 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-jobvious-app-wokspace    5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-swipe-based-parimutuel-pr5 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-payswitch                3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-zynlab.dev               3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-
-💻 Operating System: 
-Mac                      46 hrs 43 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -135,5 +85,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rexardiente/rexardiente/master/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 20:26:21 UTC
+ Last Updated on 24/07/2026 20:25:13 UTC
 <!--END_SECTION:waka-->

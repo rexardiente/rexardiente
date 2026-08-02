@@ -75,21 +75,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                10274 commits       ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-🌆 Daytime                7153 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-🌃 Evening                7292 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-🌙 Night                  15399 commits       ██████████░░░░░░░░░░░░░░░   38.38 % 
+🌞 Morning                10640 commits       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+🌆 Daytime                7395 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+🌃 Evening                7496 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+🌙 Night                  15986 commits       ██████████░░░░░░░░░░░░░░░   38.50 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   7353 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Tuesday                  6858 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Wednesday                6117 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Thursday                 4446 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Friday                   5484 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Saturday                 4280 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Sunday                   5580 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Monday                   7613 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Tuesday                  7124 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Wednesday                6393 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Thursday                 4595 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Friday                   5626 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Saturday                 4368 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Sunday                   5798 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
 ```
 
 
@@ -99,50 +99,50 @@ Sunday                   5580 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 25 hrs 41 mins      ███████████░░░░░░░░░░░░░░   44.31 % 
-TypeScript               17 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-Other                    3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-HTML                     2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Bash                     2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Markdown                 22 hrs 49 mins      ████████████░░░░░░░░░░░░░   46.83 % 
+TypeScript               12 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+Other                    3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Bash                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Python                   1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-Claude Code              56 hrs 32 mins      ████████████████████████░   97.55 % 
-VS Code                  1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Claude Code              47 hrs 27 mins      ████████████████████████░   97.35 % 
+VS Code                  1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-niksen-workspace         14 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-jobvious-app-wokspace    14 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-payswitch                5 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-backend                  4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-zynlab.dev               3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+jobvious-app-wokspace    14 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+niksen-workspace         12 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+backend                  4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+zyn-mission-control      2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+zynlab.dev               2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 💻 Operating System: 
-Mac                      57 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      48 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 hrs 35 mins (99.35%)
+⏱ AI Coding Time: 48 hrs 23 mins (99.27%)
 
-✍️ 40,480 lines written by AI, 288 lines written by hand (99.29% AI-written)
+✍️ 31,802 lines written by AI, 278 lines written by hand (99.13% AI-written)
 
-🔤 2,576,232,895 Input Tokens, 6,518,619 Output Tokens
+🔤 2,077,713,382 Input Tokens, 5,242,498 Output Tokens
 
-💵 $13336.80 Estimated AI Cost This Week
+💵 $10813.00 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 801 AI Prompts
+🧠 45 AI Sessions, 684 AI Prompts
 
-Opus                     41,509 lines        █████████████████████████   100.00 % 
+Opus                     32,716 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Visual                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.29% of written lines came from AI
+🤖 AI-Driven — 99.13% of written lines came from AI
 📝 Concise Prompter — average 443 characters per prompt
 🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 0.73% of changed lines were hand-edited
+🚀 High AI Trust — 0.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -162,5 +162,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rexardiente/rexardiente/master/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 19:48:51 UTC
+ Last Updated on 02/08/2026 19:49:50 UTC
 <!--END_SECTION:waka-->

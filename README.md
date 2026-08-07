@@ -54,17 +54,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C783%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C789%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-982%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-992%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 255.0 kB Used in GitHub's Storage 
+> 📦 254.8 kB Used in GitHub's Storage 
  > 
-> 🏆 5,090 Contributions in the Year 2026
+> 🏆 5,177 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -72,6 +72,78 @@
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                15569 commits       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+🌆 Daytime                10641 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+🌃 Evening                9634 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+🌙 Night                  23831 commits       ██████████░░░░░░░░░░░░░░░   39.93 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   10999 commits       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Tuesday                  10317 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Wednesday                9425 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Thursday                 6513 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Friday                   7482 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Saturday                 5776 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Sunday                   9163 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+Markdown                 20 hrs 3 mins       ████████████░░░░░░░░░░░░░   48.12 % 
+TypeScript               8 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Other                    7 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+MDX                      2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Bash                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+
+🔥 Editors: 
+Claude Code              40 hrs 46 mins      ████████████████████████░   97.79 % 
+VS Code                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+
+🐱‍💻 Projects: 
+niksen-workspace         12 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   31.06 % 
+jobvious-app-wokspace    6 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+loan-app-workspace       4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+abotkaya-finance         3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+backend                  2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+
+💻 Operating System: 
+Mac                      41 hrs 41 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 41 hrs 22 mins (99.22%)
+
+✍️ 27,254 lines written by AI, 7 lines written by hand (99.97% AI-written)
+
+🔤 1,854,544,742 Input Tokens, 3,772,879 Output Tokens
+
+💵 $9426.40 Estimated AI Cost This Week
+
+🧠 35 AI Sessions, 549 AI Prompts
+
+Opus                     27,524 lines        █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 452 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -89,5 +161,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rexardiente/rexardiente/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:35:24 UTC
+ Last Updated on 07/08/2026 19:40:26 UTC
 <!--END_SECTION:waka-->

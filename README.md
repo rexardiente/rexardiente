@@ -54,9 +54,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C859%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C861%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C093%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C097%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -99,48 +99,48 @@ Sunday                   11202 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    15 hrs 27 mins      ███████████░░░░░░░░░░░░░░   45.29 % 
-Markdown                 9 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-TypeScript               4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Bash                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-HTML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Other                    13 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.33 % 
+Markdown                 9 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+TypeScript               5 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+HTML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Claude Code              33 hrs 25 mins      ████████████████████████░   97.93 % 
-VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Claude Code              32 hrs 45 mins      █████████████████████████   98.34 % 
+VS Code                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🐱‍💻 Projects: 
-jobvious-app-wokspace    11 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   34.34 % 
-niksen-workspace         9 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-payswitch                5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-platform                 2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-abzposs                  1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+jobvious-app-wokspace    10 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   32.31 % 
+niksen-workspace         7 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+payswitch                6 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+platform                 3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+abzposs                  2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 
 💻 Operating System: 
-Mac                      34 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      33 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 45 mins (98.91%)
+⏱ AI Coding Time: 33 hrs 5 mins (99.38%)
 
-✍️ 18,454 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 26,125 lines written by AI, 4 lines written by hand (99.98% AI-written)
 
-🔤 439,209,244 Input Tokens, 4,108,617 Output Tokens
+🔤 433,181,831 Input Tokens, 4,508,034 Output Tokens
 
-💵 $2978.91 Estimated AI Cost This Week
+💵 $3084.59 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 418 AI Prompts
+🧠 41 AI Sessions, 404 AI Prompts
 
-Opus                     11,980 lines        ████████████████░░░░░░░░░   63.94 % 
-Sonnet                   6,756 lines         █████████░░░░░░░░░░░░░░░░   36.06 % 
+Opus                     19,655 lines        ███████████████████░░░░░░   74.42 % 
+Sonnet                   6,756 lines         ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 369 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+🤖 AI-Driven — 99.98% of written lines came from AI
+📝 Concise Prompter — average 374 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
@@ -161,5 +161,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rexardiente/rexardiente/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 02:06:01 UTC
+ Last Updated on 29/08/2026 21:18:46 UTC
 <!--END_SECTION:waka-->

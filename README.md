@@ -56,15 +56,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C884%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C172%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C172%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 266.7 kB Used in GitHub's Storage 
+> 📦 266.8 kB Used in GitHub's Storage 
  > 
-> 🏆 6,009 Contributions in the Year 2026
+> 🏆 6,010 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -75,21 +75,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                19718 commits       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-🌆 Daytime                13264 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-🌃 Evening                12343 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-🌙 Night                  30746 commits       ██████████░░░░░░░░░░░░░░░   40.42 % 
+🌞 Morning                19730 commits       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+🌆 Daytime                13270 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+🌃 Evening                12353 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+🌙 Night                  30758 commits       ██████████░░░░░░░░░░░░░░░   40.41 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   13529 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Tuesday                  12914 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Wednesday                11783 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Thursday                 8718 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Friday                   9974 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Saturday                 7543 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Sunday                   11610 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Monday                   13534 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Tuesday                  12918 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Wednesday                11786 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Thursday                 8724 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Friday                   9995 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Saturday                 7542 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Sunday                   11612 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
 ```
 
 
@@ -99,48 +99,48 @@ Sunday                   11610 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    26 hrs 8 mins       ██████████████████░░░░░░░   70.49 % 
-Markdown                 6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Bash                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-HTML                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-TypeScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Other                    25 hrs 11 mins      ███████████████████░░░░░░   77.23 % 
+Markdown                 3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Bash                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+TypeScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-Claude Code              36 hrs 23 mins      █████████████████████████   98.12 % 
-VS Code                  41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Claude Code              32 hrs 5 mins       █████████████████████████   98.40 % 
+VS Code                  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🐱‍💻 Projects: 
-abotkaya-finance         11 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   31.40 % 
-niksen-workspace         9 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-jobvious-app-wokspace    8 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-payswitch                6 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-talentia-api             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+abotkaya-finance         9 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
+jobvious-app-wokspace    8 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+niksen-workspace         6 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+payswitch                6 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+talentia-api             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Mac                      37 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      32 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 43 mins (99.02%)
+⏱ AI Coding Time: 32 hrs 20 mins (99.17%)
 
-✍️ 4,856 lines written by AI, 7 lines written by hand (99.86% AI-written)
+✍️ 3,546 lines written by AI, 7 lines written by hand (99.8% AI-written)
 
-🔤 268,704,896 Input Tokens, 3,078,069 Output Tokens
+🔤 266,727,690 Input Tokens, 2,714,268 Output Tokens
 
-💵 $2192.76 Estimated AI Cost This Week
+💵 $2094.92 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 446 AI Prompts
+🧠 41 AI Sessions, 392 AI Prompts
 
-Opus                     4,857 lines         █████████████████████████   100.00 % 
+Opus                     3,547 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📝 Concise Prompter — average 436 characters per prompt
+🤖 AI-Driven — 99.8% of written lines came from AI
+📝 Concise Prompter — average 475 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🚀 High AI Trust — 0.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -160,5 +160,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rexardiente/rexardiente/master/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:57:48 UTC
+ Last Updated on 13/09/2026 21:17:09 UTC
 <!--END_SECTION:waka-->

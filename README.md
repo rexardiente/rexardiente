@@ -99,47 +99,47 @@ Sunday                   11666 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    22 hrs 3 mins       ███████████████████░░░░░░   74.10 % 
-HTML                     4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-TypeScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Other                    19 hrs 38 mins      ██████████████████░░░░░░░   72.35 % 
+HTML                     4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+TypeScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 29 mins      █████████████████████████   99.08 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Claude Code              26 hrs 52 mins      █████████████████████████   99.02 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🐱‍💻 Projects: 
-jobvious-app-wokspace    17 hrs 27 mins      ███████████████░░░░░░░░░░   58.64 % 
-abotkaya-finance         7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-niksen-workspace         1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-payswitch                43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-zynlab.dev               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+jobvious-app-wokspace    17 hrs 16 mins      ████████████████░░░░░░░░░   63.66 % 
+abotkaya-finance         5 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+niksen-workspace         1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+payswitch                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+zynlab.dev               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 💻 Operating System: 
-Mac                      29 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 43 mins (99.83%)
+⏱ AI Coding Time: 27 hrs 5 mins (99.82%)
 
-✍️ 5,586 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 5,407 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 669,307,778 Input Tokens, 2,359,237 Output Tokens
+🔤 662,463,478 Input Tokens, 2,135,658 Output Tokens
 
-💵 $3676.32 Estimated AI Cost This Week
+💵 $3576.74 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 396 AI Prompts
+🧠 29 AI Sessions, 374 AI Prompts
 
-Opus                     5,685 lines         █████████████████████████   100.00 % 
+Opus                     5,506 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 374 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📝 Concise Prompter — average 351 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
@@ -160,5 +160,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rexardiente/rexardiente/master/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:22:58 UTC
+ Last Updated on 19/09/2026 21:12:14 UTC
 <!--END_SECTION:waka-->

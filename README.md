@@ -54,9 +54,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C905%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C906%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C244%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C246%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -99,48 +99,48 @@ Sunday                   11548 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    30 hrs 17 mins      ██████████████████░░░░░░░   71.22 % 
-Markdown                 6 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-TypeScript               2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Text                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-HTML                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Other                    25 hrs 29 mins      █████████████████░░░░░░░░   68.88 % 
+Markdown                 6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+TypeScript               2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Text                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Claude Code              42 hrs 1 min        █████████████████████████   98.81 % 
-VS Code                  30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Claude Code              36 hrs 31 mins      █████████████████████████   98.68 % 
+VS Code                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🐱‍💻 Projects: 
-jobvious-app-wokspace    25 hrs 21 mins      ███████████████░░░░░░░░░░   59.64 % 
-loan-app-workspace       8 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-niksen-workspace         3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-payswitch                1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-jobvious-api-v2          46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+jobvious-app-wokspace    23 hrs 17 mins      ████████████████░░░░░░░░░   62.93 % 
+loan-app-workspace       6 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+niksen-workspace         2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+payswitch                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+jobvious-reskin          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 💻 Operating System: 
-Mac                      42 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 19 mins (99.51%)
+⏱ AI Coding Time: 36 hrs 48 mins (99.44%)
 
-✍️ 3,427 lines written by AI, 12 lines written by hand (99.65% AI-written)
+✍️ 2,264 lines written by AI, 12 lines written by hand (99.47% AI-written)
 
-🔤 1,036,948,243 Input Tokens, 3,272,817 Output Tokens
+🔤 875,382,074 Input Tokens, 2,593,823 Output Tokens
 
-💵 $5625.44 Estimated AI Cost This Week
+💵 $4923.05 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 528 AI Prompts
+🧠 34 AI Sessions, 461 AI Prompts
 
-Opus                     3,469 lines         █████████████████████████   100.00 % 
+Opus                     2,306 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.65% of written lines came from AI
-📝 Concise Prompter — average 353 characters per prompt
+🤖 AI-Driven — 99.47% of written lines came from AI
+📝 Concise Prompter — average 269 characters per prompt
 🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🚀 High AI Trust — 0.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -160,5 +160,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rexardiente/rexardiente/master/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 23:44:59 UTC
+ Last Updated on 29/09/2026 22:49:23 UTC
 <!--END_SECTION:waka-->
